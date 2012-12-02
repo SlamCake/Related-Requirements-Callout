@@ -1,0 +1,42 @@
+﻿@using com.careerbuilder.api.models.responses;
+@using Jobs.Controllers;
+
+@{
+    ViewBag.Title = "berb's jerbs";
+
+    List<JobSearchResult> myJobs = (List<JobSearchResult>)ViewData["Jobbies"];
+}
+
+<h2>I'm berrb and here's my jerrrbs</h2>
+
+<div style="position: absolute; right:0px; top:0px;">
+    <form name="input" action="" method="post">
+        <p>Where do you live?</p>
+        <select id="location" name="location">
+          <option value="atlanta">Atlanta</option>
+          <option value="chicago">Chicago</option>
+          <option value="new york">New York</option>
+          <option value="huntsville">Huntsville</option>
+        </select>
+
+        <p>What do you want to do?</p>
+        <select id="job" name="job">
+          <option value="engineer">Engineer</option>
+          <option value="soldier">Soldier</option>
+          <option value="medic">Medic</option>
+          <option value="spy">Spy</option>
+        </select>
+        <input type="submit" value="Submit" />
+    </form>
+</div>
+
+<ul>
+@foreach (JobSearchResult job in @myJobs)
+{
+    <li>
+        @Html.ActionLink(@job.JobTitle, "Job", "Jobs", new {did = @job.DID}, null)
+    </li>
+}
+</ul>
+
+<img src="http://oi45.tinypic.com/x5teuf.jpg" style="position: absolute; right:200px; top:0px;" />

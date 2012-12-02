@@ -1,0 +1,165 @@
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\Jobs.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\Jobs.pdb
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\Antlr3.Runtime.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\CBApi.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\EntityFramework.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\Microsoft.Web.Infrastructure.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\Newtonsoft.Json.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\RestSharp.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Net.Http.Formatting.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Web.Http.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Web.Http.WebHost.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Web.Mvc.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Web.Optimization.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Web.Providers.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Web.Razor.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Web.WebPages.Deployment.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Web.WebPages.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Web.WebPages.Razor.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\WebGrease.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\RestSharp.xml
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\EntityFramework.xml
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\Newtonsoft.Json.xml
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Net.Http.Formatting.xml
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Web.Http.xml
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Web.Http.WebHost.xml
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Web.Mvc.xml
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Web.Razor.xml
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Web.WebPages.xml
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Web.WebPages.Deployment.xml
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\bin\System.Web.WebPages.Razor.xml
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\obj\Debug\Jobs.dll
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\obj\Debug\Jobs.pdb
+c:\users\den\documents\visual studio 2012\Projects\Jobs\Jobs\obj\Debug\Jobs.csprojResolveAssemblyReference.cache
+E:\Jobs\Jobs\Jobs\bin\Jobs.dll
+E:\Jobs\Jobs\Jobs\bin\Jobs.pdb
+E:\Jobs\Jobs\Jobs\bin\Antlr3.Runtime.dll
+E:\Jobs\Jobs\Jobs\bin\CBApi.dll
+E:\Jobs\Jobs\Jobs\bin\EntityFramework.dll
+E:\Jobs\Jobs\Jobs\bin\Microsoft.Web.Infrastructure.dll
+E:\Jobs\Jobs\Jobs\bin\Newtonsoft.Json.dll
+E:\Jobs\Jobs\Jobs\bin\RestSharp.dll
+E:\Jobs\Jobs\Jobs\bin\System.Net.Http.Formatting.dll
+E:\Jobs\Jobs\Jobs\bin\System.Web.Http.dll
+E:\Jobs\Jobs\Jobs\bin\System.Web.Http.WebHost.dll
+E:\Jobs\Jobs\Jobs\bin\System.Web.Mvc.dll
+E:\Jobs\Jobs\Jobs\bin\System.Web.Optimization.dll
+E:\Jobs\Jobs\Jobs\bin\System.Web.Providers.dll
+E:\Jobs\Jobs\Jobs\bin\System.Web.Razor.dll
+E:\Jobs\Jobs\Jobs\bin\System.Web.WebPages.Deployment.dll
+E:\Jobs\Jobs\Jobs\bin\System.Web.WebPages.dll
+E:\Jobs\Jobs\Jobs\bin\System.Web.WebPages.Razor.dll
+E:\Jobs\Jobs\Jobs\bin\WebGrease.dll
+E:\Jobs\Jobs\Jobs\bin\RestSharp.xml
+E:\Jobs\Jobs\Jobs\bin\EntityFramework.xml
+E:\Jobs\Jobs\Jobs\bin\Newtonsoft.Json.xml
+E:\Jobs\Jobs\Jobs\bin\System.Net.Http.Formatting.xml
+E:\Jobs\Jobs\Jobs\bin\System.Web.Http.xml
+E:\Jobs\Jobs\Jobs\bin\System.Web.Http.WebHost.xml
+E:\Jobs\Jobs\Jobs\bin\System.Web.Mvc.xml
+E:\Jobs\Jobs\Jobs\bin\System.Web.Razor.xml
+E:\Jobs\Jobs\Jobs\bin\System.Web.WebPages.xml
+E:\Jobs\Jobs\Jobs\bin\System.Web.WebPages.Deployment.xml
+E:\Jobs\Jobs\Jobs\bin\System.Web.WebPages.Razor.xml
+E:\Jobs\Jobs\Jobs\obj\Debug\Jobs.csprojResolveAssemblyReference.cache
+E:\Jobs\Jobs\Jobs\obj\Debug\Jobs.dll
+E:\Jobs\Jobs\Jobs\obj\Debug\Jobs.pdb
+F:\Jobs\Jobs\Jobs\bin\Jobs.dll
+F:\Jobs\Jobs\Jobs\bin\Jobs.pdb
+F:\Jobs\Jobs\Jobs\bin\Antlr3.Runtime.dll
+F:\Jobs\Jobs\Jobs\bin\CBApi.dll
+F:\Jobs\Jobs\Jobs\bin\EntityFramework.dll
+F:\Jobs\Jobs\Jobs\bin\Microsoft.Web.Infrastructure.dll
+F:\Jobs\Jobs\Jobs\bin\Newtonsoft.Json.dll
+F:\Jobs\Jobs\Jobs\bin\RestSharp.dll
+F:\Jobs\Jobs\Jobs\bin\System.Net.Http.Formatting.dll
+F:\Jobs\Jobs\Jobs\bin\System.Web.Http.dll
+F:\Jobs\Jobs\Jobs\bin\System.Web.Http.WebHost.dll
+F:\Jobs\Jobs\Jobs\bin\System.Web.Mvc.dll
+F:\Jobs\Jobs\Jobs\bin\System.Web.Optimization.dll
+F:\Jobs\Jobs\Jobs\bin\System.Web.Providers.dll
+F:\Jobs\Jobs\Jobs\bin\System.Web.Razor.dll
+F:\Jobs\Jobs\Jobs\bin\System.Web.WebPages.Deployment.dll
+F:\Jobs\Jobs\Jobs\bin\System.Web.WebPages.dll
+F:\Jobs\Jobs\Jobs\bin\System.Web.WebPages.Razor.dll
+F:\Jobs\Jobs\Jobs\bin\WebGrease.dll
+F:\Jobs\Jobs\Jobs\bin\RestSharp.xml
+F:\Jobs\Jobs\Jobs\bin\EntityFramework.xml
+F:\Jobs\Jobs\Jobs\bin\Newtonsoft.Json.xml
+F:\Jobs\Jobs\Jobs\bin\System.Net.Http.Formatting.xml
+F:\Jobs\Jobs\Jobs\bin\System.Web.Http.xml
+F:\Jobs\Jobs\Jobs\bin\System.Web.Http.WebHost.xml
+F:\Jobs\Jobs\Jobs\bin\System.Web.Mvc.xml
+F:\Jobs\Jobs\Jobs\bin\System.Web.Razor.xml
+F:\Jobs\Jobs\Jobs\bin\System.Web.WebPages.xml
+F:\Jobs\Jobs\Jobs\bin\System.Web.WebPages.Deployment.xml
+F:\Jobs\Jobs\Jobs\bin\System.Web.WebPages.Razor.xml
+F:\Jobs\Jobs\Jobs\obj\Debug\Jobs.csprojResolveAssemblyReference.cache
+F:\Jobs\Jobs\Jobs\obj\Debug\Jobs.dll
+F:\Jobs\Jobs\Jobs\obj\Debug\Jobs.pdb
+C:\Users\den\Desktop\Jobs\Jobs\bin\Jobs.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\Jobs.pdb
+C:\Users\den\Desktop\Jobs\Jobs\bin\Antlr3.Runtime.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\CBApi.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\EntityFramework.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\Newtonsoft.Json.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\RestSharp.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Net.Http.Formatting.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Web.Http.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Web.Http.WebHost.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Web.Mvc.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Web.Optimization.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Web.Providers.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Web.Razor.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Web.WebPages.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Web.WebPages.Razor.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\WebGrease.dll
+C:\Users\den\Desktop\Jobs\Jobs\bin\RestSharp.xml
+C:\Users\den\Desktop\Jobs\Jobs\bin\EntityFramework.xml
+C:\Users\den\Desktop\Jobs\Jobs\bin\Newtonsoft.Json.xml
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Net.Http.Formatting.xml
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Web.Http.xml
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Web.Http.WebHost.xml
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Web.Mvc.xml
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Web.Razor.xml
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Web.WebPages.xml
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\den\Desktop\Jobs\Jobs\bin\System.Web.WebPages.Razor.xml
+C:\Users\den\Desktop\Jobs\Jobs\obj\Debug\Jobs.csprojResolveAssemblyReference.cache
+C:\Users\den\Desktop\Jobs\Jobs\obj\Debug\Jobs.dll
+C:\Users\den\Desktop\Jobs\Jobs\obj\Debug\Jobs.pdb
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\Jobs.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\Jobs.pdb
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\Antlr3.Runtime.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\CBApi.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\EntityFramework.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\Newtonsoft.Json.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\RestSharp.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Net.Http.Formatting.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Web.Http.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Web.Http.WebHost.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Web.Mvc.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Web.Optimization.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Web.Providers.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Web.Razor.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Web.WebPages.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Web.WebPages.Razor.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\WebGrease.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\RestSharp.xml
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\EntityFramework.xml
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\Newtonsoft.Json.xml
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Net.Http.Formatting.xml
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Web.Http.xml
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Web.Http.WebHost.xml
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Web.Mvc.xml
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Web.Razor.xml
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Web.WebPages.xml
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\bin\System.Web.WebPages.Razor.xml
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\obj\Debug\Jobs.csprojResolveAssemblyReference.cache
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\obj\Debug\Jobs.dll
+C:\Users\kenyon\Downloads\JobsV2\Jobs\Jobs\obj\Debug\Jobs.pdb

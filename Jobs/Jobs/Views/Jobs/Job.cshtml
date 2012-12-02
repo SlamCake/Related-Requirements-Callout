@@ -1,0 +1,84 @@
+﻿@using com.careerbuilder.api.models.responses;
+@using Jobs.Controllers;
+@using com.careerbuilder.api.models;
+@using System.Collections;
+
+<script type="text/javascript" src="@Url.Content("/Scripts/jquery-1.7.2.min.js")"></script>
+<link rel="stylesheet" type="text/css" href="~/Content/Site.css" />
+<script type="text/javascript">
+    $(document).ready(function () {
+        // Tooltip only Text
+        $('.masterTooltip').hover(function () {
+            // Hover over code
+            var title = $(this).attr('title');
+            $(this).data('tipText', title).removeAttr('title');
+            $('<p class="tooltip"></p>')
+            .text(title)
+            .appendTo('body')
+            .fadeIn('slow');
+        }, function () {
+            // Hover out code
+            $(this).attr('title', $(this).data('tipText'));
+            $('.tooltip').remove();
+        }).mousemove(function (e) {
+            var mousex = e.pageX + 20; //Get X coordinates
+            var mousey = e.pageY + 10; //Get Y coordinates
+            $('.tooltip')
+            .css({ top: mousey, left: mousex })
+        });
+    });
+</script>
+<style type="text/css">
+    .tooltip {
+	    display:none;
+	    position:absolute;
+	    border:1px solid #333;
+	    background-color:#161616;
+	    border-radius:5px;
+	    padding:10px;
+	    color:#fff;
+	    font-size:12px Arial;
+    }
+    .jobDesc {
+        width:70%;
+        background-color:rgb(255, 255, 204);
+    }
+    .recJobReqs {
+        width:70%;
+        background-color:rgb(238, 238, 238);
+    }
+    .emphaticMusings {
+        color: red;
+    }
+</style>
+@{
+    ViewBag.Title = "berb's jerb";
+
+    Job thisJob = (Job)ViewData["Job"];
+    List<Hashtable> recJobData = (List<Hashtable>)ViewData["RecJobData"];
+}
+
+<h2>I'm berrb and here's my jerrrb</h2>
+
+<div class="jobDesc">
+    <font style="font-size:12px;"></font><strong>@thisJob.Company.ToString()</strong> wants a <strong>@thisJob.JobTitle</strong>!</font>
+    <br />
+    <font class="emphaticMusings">However</font>, you need to be able to the following things:
+    <br /><br />
+    <strong>@Html.Raw(WebUtility.HtmlDecode(thisJob.JobRequirements))</strong>
+</div>
+
+<div class="recJobReqs">
+    <h2>Here's what skill requirements look like for similar jobs to the one you're viewing:</h2>
+    <h4><font class="emphaticMusings">Mouse over</font> for Job Requirements</h4>
+    <ul>
+    @foreach (Hashtable recJob in @recJobData)
+    {
+        <li>
+            <p title="@recJob["Req"]" class="masterTooltip">@recJob["Company"] wants a @recJob["Title"]</p>
+        </li>
+    }
+    </ul>
+</div>
+
+<img src="http://oi45.tinypic.com/x5teuf.jpg" style="position: absolute; right:200px; top:0px;" />

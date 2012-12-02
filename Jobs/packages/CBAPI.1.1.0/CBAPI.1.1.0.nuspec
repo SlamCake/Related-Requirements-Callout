@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CBAPI</id>
+    <version>1.1.0</version>
+    <title>CareerBuilder.com API</title>
+    <authors>Jeffery Yeary</authors>
+    <owners>Jeffery Yeary</owners>
+    <licenseUrl>https://github.com/usbsnowcrash/Careerbuilder.com-API-for-.Net/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/usbsnowcrash/Careerbuilder.com-API-for-.Net/wiki</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A fluent style wrapper for the careerbuilder.com API</description>
+    <summary>A wrapper for the careerbuilder api found at http://api.careerbuilder.com</summary>
+    <copyright>(c) 2012 Jeffery Yeary</copyright>
+    <language>en-US</language>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="RestSharp" version="104.1" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Xml" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Xml.Linq" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
